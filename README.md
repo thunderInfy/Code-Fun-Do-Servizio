@@ -1,1 +1,1 @@
-# Servizio
+An android app named Servizio developed as a part of the Microsoft's Code Fun Do event which integrates the customer base with the service-providers to provide short term employment to people and helps in availing small services. Used Google firebase database cloud services for providing notifications on the app to both consumers and service providers.
